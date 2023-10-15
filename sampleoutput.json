@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-sport",
+    "name": "BBC Sport"
+    },
+    "author": null,
+    "title": "Cricket recommended for 2028 LA Olympics spot",
+    "description": "Cricket could be in the Olympics for the first time since 1900 as organisers recommend it to be part of the 2028 Los Angeles Games.",
+    "url": "http://www.bbc.co.uk/sport/olympics/67058414",
+    "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/BE07/production/_131374684_gettyimages-1669874103.jpg",
+    "publishedAt": "2023-10-09T18:22:23.5006004Z",
+    "content": "England won the 2022 Men's Twenty20 World Cup\r\nCricket could be in the Olympics for the first time since 1900 after organisers recommended it to be part of the 2028 Los Angeles Games.\r\nTwenty20 crick… [+2249 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-sport",
+    "name": "BBC Sport"
+    },
+    "author": null,
+    "title": "Boult takes 'absolutely spectacular catch' for New Zealand",
+    "description": "Trent Boult takes an \"absolutely spectacular\" acrobatic catch for New Zealand to dismiss Netherlands batter Bos de Leede at the ICC Men's Cricket World Cup.",
+    "url": "http://www.bbc.co.uk/sport/av/cricket/67053529",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/12AD0/production/_131369467_p0gkdswq.jpg",
+    "publishedAt": "2023-10-09T14:37:19.2185224Z",
+    "content": "Trent Boult takes an \"absolutely spectacular\" acrobatic catch for New Zealand to dismiss Netherlands batter Bos de Leede at the ICC Men's Cricket World Cup.\r\nFOLLOW LIVE: New Zealand v Netherlands\r\nA… [+24 chars]"
+    },
+    {
+    "source": {
+    "id": "espn-cric-info",
+    "name": "ESPN Cric Info"
+    },
+    "author": null,
+    "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+    "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+    "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+    "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+    "publishedAt": "2020-04-27T11:41:47Z",
+    "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+    "source": {
+    "id": "espn-cric-info",
+    "name": "ESPN Cric Info"
+    },
+    "author": null,
+    "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+    "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+    "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+    "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+    "publishedAt": "2020-03-30T15:26:05Z",
+    "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+    ]
+    }
